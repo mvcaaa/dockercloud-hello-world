@@ -50,5 +50,6 @@
 		<?php
 	}
 	?>
+	<h3>My mane is MvC</h3>
 </body>
 </html>
